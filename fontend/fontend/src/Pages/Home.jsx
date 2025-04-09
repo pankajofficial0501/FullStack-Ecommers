@@ -11,7 +11,7 @@ const placeholderProducts = [
     {
         _id : 1 , 
         name: "Product 1",
-        price: 100, 
+        price: 100,  
         images: [
             {
                 url: "https://picsum.photos/500/500?random=1"
